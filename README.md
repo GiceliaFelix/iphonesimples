@@ -1,4 +1,4 @@
-# umliphonesimples
+# Diagramando as funcionalidades básicas de um Iphone.
 Projeto do Bootcamp da Dio em parceria com a Santander. Módulo de diagramação. 
 
 O objetivo deste artigo é apresentar uma modelagem UML para representar as funcionalidades do iPhone, abordando três principais componentes: Reprodutor Musical, Aparelho Telefônico e Navegador de Internet. A modelagem UML (Unified Modeling Language) é uma linguagem padrão para especificar, visualizar, construir e documentar artefatos de sistemas de software.
